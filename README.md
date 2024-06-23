@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+<!--  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/visitors-700">
+
 </div>
 
 ###
