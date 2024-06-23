@@ -73,6 +73,8 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40" alt="Mysql logo"/>
 </div>
 
 ###
@@ -83,6 +85,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismark66)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
