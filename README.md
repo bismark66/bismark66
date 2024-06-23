@@ -83,10 +83,10 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="start">
+<!--<div align="start">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
  
-</div>
+</div> -->
 
 ![bismark66's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bismark66&theme=vue-dark&hide_border=true)
  
