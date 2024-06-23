@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Bismark Agyare from Ghana<br><br>- 🔭 I’m a Software Engineer<br><br>- ⚡ In my free time I listen to music and play games(FIFA)</p>
+<p align="left">I'm Bismark Agyare from Ghana <br><br>- 👨‍💻 All of my projects are available at https://github.com/bismark66
+
+   <br><br>- 🔭 I’m a Software Engineer<br><br>- ⚡ In my free time I listen to music and play games(FIFA)</p>
 
 ###
 
