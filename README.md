@@ -85,7 +85,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismark66)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismark66)](https://github.com/anuraghazra/github-readme-stats)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismark66&show_icons=true&theme=radical)
+
 
 ###
