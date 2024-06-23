@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/C4E03AQHLOsFZHpJftA/profile-displayphoto-shrink_800_800/0/1647265233813?e=2147483647&v=beta&t=LfOuBv-SiDLpDDPAFEiCZOG5UW9TV4E-ZImqk1rg-nw"  />
+  <img height="150" style="border-radius=50%" src="https://media.licdn.com/dms/image/C4E03AQHLOsFZHpJftA/profile-displayphoto-shrink_800_800/0/1647265233813?e=2147483647&v=beta&t=LfOuBv-SiDLpDDPAFEiCZOG5UW9TV4E-ZImqk1rg-nw"  />
 </div>
 
 ###
