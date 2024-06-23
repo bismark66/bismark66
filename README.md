@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Bismark Agyare, a software engineer from Ghana <br><br>- 👨‍💻 All of my projects are available at https://github.com/bismark66 <br><br>- 🔭💬 Ask me about react, javascript, typescript
+<p align="left"><br><br>- 👨‍💻 All of my projects are available at https://github.com/bismark66 <br><br>- 🔭💬 Ask me about react, javascript, typescript
 <br><br>📫 How to reach me <a href="mailto:agyarebismark6@gmail.com">agyarebismark6@gmail.com</a> <br><br> - ⚡ In my free time I listen to music and play games(FIFA)</p>
 
 ###
