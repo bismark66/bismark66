@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h1 align="center">hey there 👋, I am Bismark Agyare </h1>
 
 ###
-<h3 align="center"> I am a frontend software engineer </h3>
+<h3 align="center"> I am a software engineer </h3>
 
 
 ###
