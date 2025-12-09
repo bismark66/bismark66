@@ -65,8 +65,8 @@ I thrive on bringing ideas to life, learning new technologies, and collaborating
 - **Databases**: MongoDB, MySQL, Firestore,Postgres
 - **DevOps/Cloud**: Docker, Firebase, AWS basics
 - **Version Control**: Git & GitHub
-- **Testing**: Jest, React Testing Library
-- **CI/CD**: GitHub Actions (basic)
+- **Testing**: Jest, React Testing Library, Cypress
+- **CI/CD**: GitHub Actions 
 - **Soft skills**: Remote teamwork, mentorship, Agile/Scrum Collaboration, Communication
 
 ---
